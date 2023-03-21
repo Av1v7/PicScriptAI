@@ -1,6 +1,6 @@
 # AI-Image-Generator
 
-This is a web application that allows users to generate images using AI. The app uses the OpenAI API to generate images based on user prompts. Users can also share their generated images with the community.
+This is a web application that allows users to generate images using AI using OpenAI-Api. The app uses the OpenAI API to generate images based on user prompts. Users can also share their generated images with the community.
 
 ## Usage
 
