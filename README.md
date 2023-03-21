@@ -32,6 +32,7 @@ CLOUDINARY_API_SECRET= ""
 9. Open your web browser and go to `http://localhost:8080`.
 10. Enter a prompt and click "Generate Image" to generate an image.
 11. Click "Share" to share your generated image with the community.
+12 And the most important. Give it a star 😊 
 
 ## Screenshots
 ![Screenshot 1](https://cdn.discordapp.com/attachments/636950095056863243/1087847068002943056/image.png)
