@@ -7,15 +7,22 @@ GitHub repository for a ReactJS-based website featuring an AI-powered image gene
 10. Enjoy!
 
 ### .env
-```OPENAI_API_KEY=YOURAPIKEY```
+```
+OPENAI_API_KEY = ""
+MONGODB_URL = ""
+
+CLOUDINARY_CLUD_NAME = ""
+CLOUDINARY_API_KEY = ""
+CLOUDINARY_API_SECRET= ""
+```
 
 ## Screenshots
 ![Screenshot 1](https://cdn.discordapp.com/attachments/636950095056863243/1087847068002943056/image.png)
 ![Screenshot 2](https://cdn.discordapp.com/attachments/636950095056863243/1087847068254613584/image.png)
 ![Screenshot 3](https://cdn.discordapp.com/attachments/636950095056863243/1087847068535623740/image.png)
 
-## Need Help?
+### Need Help?
 
-- **Discord:** YourDiscordHandle#1234
-- **Twitter:** https://twitter.com/your-twitter-handle
-- **Email:** your-email@example.com
+-  **Discord :** Av1v7#2420 || https://discord.gg/Pf2cj9ZNAa.
+-  **Twitter :** https://twitter.com/Av1vF.
+-  **Gmail :** avivshemesh96@gmail.com.
